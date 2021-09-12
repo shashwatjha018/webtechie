@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+* {
+    border: none;
+    margin: none;
+    padding: none;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+/* custom scroll bar */
+::-webkit-scrollbar {
+    width: 15px;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* Website name font (WEB-TECHIE)*/
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    color: #f1f1f1;
+
+}
+
+.custom-nav .custom-nav-item a{
+    color: white !important;
+}
+
+.custom-nav-item:hover {
+    background-color: red;
+    border: solid red 1px;
+    border-radius: 10px;
+}
+
+.vid-main {
+    position: relative;
+}
+
+.vid-no-marg {
+    margin: 0px;
+    padding: 0px;
+}
+video{
+    width: 100%;
+    height: 100%;
+}
+
+.vid-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: violet;
+    z-index: 1;
+    opacity: 0.7;
+}
+
+.vid-content {
+    position: absolute;
+    z-index: 2;
+    top: 35%;
+    left: 35%;
+    color: white;
+    text-align: center;
+}
+
+.bottom-banner {
+    color: white;
+    padding: 10px;
+}
+
+.stripe {
+    background-image: linear-gradient(240deg, #ed213a,#93291e);
+    padding: 3rem;
+    height: 13rem;
+    margin-top: 4rem;
+    transform: rotate(10deg);
+    z-index: -5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width:0px) and (max-width:700px) {
+    .my-content,
+    .txt-banner,
+    .stripe {
+        display: none;
+    }
+
+    .custom-nav .custom-nav-item {
+        padding: 10px 20px;
+        background-color: violet;
+    }
+
+    .custom-nav-items:hover {
+        background-color: none;
+        border: none;
+        border-radius: none;
+    }
+}
