@@ -36,7 +36,7 @@ quizzes, reading notes & practicing on inbuilt live editors after purchasing a c
 - The students will be provided with audios, videos and standard notes to provide the right kind of material for each student to use. 
 - The courses provided on our site focus on the languages and systems that have been consistently gaining importance in the field of development. 
 - There will be a separate section on our website which provides the facts about the ongoing courses that we provide. 
-- **Live editors** of courses provided such as HTML/CSS/JAVASCRIPT is nbuilt in our website so that the students can implement what they learn at that very instance. 
+- **Live editors** of courses provided such as HTML/CSS/JAVASCRIPT is built in our website so that the students can implement what they learn at that very instance. 
 - The student can also request materials by best faculties which will be  sent to their registered email ids. 
 - Also, after learning students can test their knowledge by taking quizzes which will be graded.
 - Payment gateway for students to purchase a course.
