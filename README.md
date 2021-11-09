@@ -136,7 +136,7 @@ git clone https://github.com/shashwatjha018/webtechie
 
 ## Made By
 
-- Nidhi Rathi 
+- [@NidhiRathi123](https://github.com/NidhiRathi123) 
 - [@shashwatjha018](https://github.com/shashwatjha018)
 
   
